@@ -17,15 +17,9 @@
 ## ⚡ Connect with Me
 
 <p align="center">
-  <a href="https://github.com/di9t0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/diptoiguess">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/diptoriot">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/di9t0)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/diptoiguess)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diptoriot)
 </p>
 
 ---
@@ -45,12 +39,8 @@
 ## 📦 Featured Browser Extensions
 
 <p align="center">
-  <a href="https://github.com/di9t0/Facebook-Messenger-Chat-Pin-Extension" title="Messenger Pin Extension">
-    <img src="https://img.shields.io/badge/Messenger%20Pin-FF6F61?style=for-the-badge&logo=messenger&logoColor=white" />
-  </a>
-  <a href="https://github.com/di9t0/Facebook-Reels-Blocker" title="Reels Blocker">
-    <img src="https://img.shields.io/badge/Reels%20Blocker-1DB954?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  [![Messenger Pin Extension](https://img.shields.io/badge/Messenger%20Pin-FF6F61?style=for-the-badge&logo=messenger&logoColor=white)](https://github.com/di9t0/Facebook-Messenger-Chat-Pin-Extension)
+  [![Reels Blocker](https://img.shields.io/badge/Reels%20Blocker-1DB954?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/di9t0/Facebook-Reels-Blocker)
 </p>
 
 > Check out all my projects on [GitHub](https://github.com/di9t0) ⭐  
@@ -91,9 +81,7 @@
 ## ⭐ Support Me
 
 <p align="center">
-  <a href="https://github.com/di9t0">
-    <img src="https://img.shields.io/github/stars/di9t0?style=social"/>
-  </a>
+  [![GitHub Stars](https://img.shields.io/github/stars/di9t0?style=social)](https://github.com/di9t0)
 </p>
 
 ---
