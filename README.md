@@ -33,11 +33,21 @@
 ## 🛠 My Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="#" title="HTML5" style="text-decoration: underline;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="#" title="CSS3" style="text-decoration: underline;">
+    <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="#" title="JavaScript" style="text-decoration: underline;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="#" title="Flask" style="text-decoration: underline;">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  </a>
+  <a href="#" title="Python" style="text-decoration: underline;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -45,11 +55,11 @@
 ## 📦 Featured Browser Extensions
 
 <p align="center">
-  <a href="https://github.com/di9t0/Facebook-Messenger-Chat-Pin-Extension">
-    <img src="https://img.shields.io/badge/Messenger%20Pin-FF6F61?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Pin Extension"/>
+  <a href="https://github.com/di9t0/Facebook-Messenger-Chat-Pin-Extension" title="Messenger Pin Extension" style="text-decoration: underline;">
+    <img src="https://img.shields.io/badge/Messenger%20Pin-FF6F61?style=for-the-badge&logo=messenger&logoColor=white" />
   </a>
-  <a href="https://github.com/di9t0/Facebook-Reels-Blocker">
-    <img src="https://img.shields.io/badge/Reels%20Blocker-1DB954?style=for-the-badge&logo=facebook&logoColor=white" alt="Reels Blocker"/>
+  <a href="https://github.com/di9t0/Facebook-Reels-Blocker" title="Reels Blocker" style="text-decoration: underline;">
+    <img src="https://img.shields.io/badge/Reels%20Blocker-1DB954?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
