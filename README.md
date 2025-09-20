@@ -2,8 +2,12 @@
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="coding gif"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Tahsin Ahmed Dipto</h1>
-<p align="center">Browser Extension Developer & Python Enthusiast from Dhaka, Bangladesh 🚀</p>
+<h1 align="center" style="color: linear-gradient(90deg, #ff00cc, #3333ff);">
+  👋 Hi, I'm Tahsin Ahmed Dipto
+</h1>
+<p align="center">
+  Browser Extension Developer & Python Enthusiast from Dhaka, Bangladesh 🚀
+</p>
 
 ---
 
@@ -27,7 +31,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,10 +41,14 @@
 
 ## 📦 Featured Browser Extensions
 
-| Extension | Description | Link |
-|-----------|-------------|------|
-| Messenger Pin Extension | Pin your important chats on Messenger Web | [GitHub](https://github.com/di9t0) |
-| Reels Blocker | Block distracting Facebook Reels | [GitHub](https://github.com/di9t0) |
+<p align="center">
+  <a href="https://github.com/di9t0">
+    <img src="https://img.shields.io/badge/Messenger%20Pin-FF6F61?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Pin Extension"/>
+  </a>
+  <a href="https://github.com/di9t0">
+    <img src="https://img.shields.io/badge/Reels%20Blocker-1DB954?style=for-the-badge&logo=facebook&logoColor=white" alt="Reels Blocker"/>
+  </a>
+</p>
 
 > Check out all my projects on [GitHub](https://github.com/di9t0) ⭐  
 
@@ -64,15 +72,16 @@
 - Advanced **JavaScript & Chrome APIs**  
 - Python Automation & Flask Tools  
 - Extension Publishing & Best Practices  
-- New ways to make extensions **fast, light, and user-friendly**
+- Optimizing browser extensions for speed & UX  
 
 ---
 
 ## 🔥 Fun Facts
 
 - Coffee fuels my coding ☕  
-- Love creating tools that actually **improve browsing experience**  
-- Always exploring **modern web & extension tech**
+- Love creating tools that **enhance browsing experience**  
+- Constantly exploring **modern web & extension tech**  
+- Always pushing **browser extensions to infinity & beyond 🚀**  
 
 ---
 
