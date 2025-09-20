@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tahsin Ahmed Dipto
 
 I’m a **Browser Extension Developer & Python Enthusiast** from **Dhaka, Bangladesh**.  
-I build **creative, useful extensions for Chromium-based browsers** and dabble in **Python & Flask** projects. 🚀  
+I create **powerful Chromium-based extensions** and dabble in **Python & Flask** projects. 🚀  
 
 ---
 
@@ -37,7 +37,7 @@ I build **creative, useful extensions for Chromium-based browsers** and dabble i
 
 ## 📊 GitHub Stats
 
-[![di9t0's GitHub stats](https://github-readme-stats.vercel.app/api?username=di9t0&show_icons=true&theme=radical)](https://github.com/di9t0)  
+[![di9t0's GitHub stats](https://github-readme-stats.vercel.app/api?username=di9t0&show_icons=true&theme=radical&count_private=true)](https://github.com/di9t0)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=di9t0&layout=compact&theme=radical)](https://github.com/di9t0)  
 
 ---
@@ -58,6 +58,8 @@ If you like my projects, don’t forget to give them a ⭐!
 
 ---
 
-## 🖱 Visitors
+## 🔥 Fun Facts
 
-![Visitor Count](https://profile-counter.glitch.me/di9t0/count.svg)
+- Coffee fuels my coding ☕  
+- I love building tools that actually **improve browsing experience**  
+- Constantly exploring **modern web & extension technologies**  
