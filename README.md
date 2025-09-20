@@ -28,8 +28,7 @@ I create **powerful Chromium-based extensions** and dabble in **Python & Flask**
 ## 📦 Featured Browser Extensions
 
 - **Facebook Messenger Pin Extension** – Pin your important chats on Messenger Web.  
-- **Reels Blocker** – Block distracting Facebook Reels while browsing.  
-- **[Your Other Extension]** – (Add your other projects here!)  
+- **Reels Blocker** – Block distracting Facebook Reels while browsing.    
 
 > Check out all my projects on [GitHub](https://github.com/di9t0) ⭐  
 
