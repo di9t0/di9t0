@@ -2,9 +2,12 @@
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="coding gif"/>
 </p>
 
-<h1 align="center" style="color: linear-gradient(90deg, #ff00cc, #3333ff);">
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent;">
   👋 Hi, I'm Tahsin Ahmed Dipto
+  </span>
 </h1>
+
 <p align="center">
   Browser Extension Developer & Python Enthusiast from Dhaka, Bangladesh 🚀
 </p>
@@ -42,10 +45,10 @@
 ## 📦 Featured Browser Extensions
 
 <p align="center">
-  <a href="https://github.com/di9t0">
+  <a href="https://github.com/di9t0/Facebook-Messenger-Chat-Pin-Extension">
     <img src="https://img.shields.io/badge/Messenger%20Pin-FF6F61?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Pin Extension"/>
   </a>
-  <a href="https://github.com/di9t0">
+  <a href="https://github.com/di9t0/Facebook-Reels-Blocker">
     <img src="https://img.shields.io/badge/Reels%20Blocker-1DB954?style=for-the-badge&logo=facebook&logoColor=white" alt="Reels Blocker"/>
   </a>
 </p>
